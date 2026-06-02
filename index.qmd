@@ -1,0 +1,12 @@
+---
+title: "Ammonyte Tutorials"
+---
+
+Welcome to the Ammonyte tutorials. Ammonyte is a Python package for detecting abrupt transitions and tipping points in paleoclimate time series.
+
+## Tutorials
+
+- [Getting Started](Getting_Started.ipynb) — Load a time series and create your first visualization
+- [KS Test](KS_test.ipynb) — Detect transitions using the augmented Kolmogorov-Smirnov test
+- [LERM](LERM_validation.ipynb) — Detect transitions using Laplacian Eigenmaps of Recurrence Matrices
+- [Ruptures](Rupture_Validation.ipynb) — Detect transitions using change-point detection algorithms

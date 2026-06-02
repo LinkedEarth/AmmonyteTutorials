@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ammonyte Tutorials"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Getting Started"
+        href: Getting_Started.ipynb
+      - text: "KS Test"
+        href: KS_test.ipynb
+      - text: "LERM"
+        href: LERM_validation.ipynb
+      - text: "Ruptures"
+        href: Rupture_Validation.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
